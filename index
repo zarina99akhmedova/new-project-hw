@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Index</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="main-content">
+    <a href="https://skillbox.ru" target="_blank" class="image">
+      <img src="img/logo-light.png" alt="Логотип skillbox">
+    </a>
+    <div class="elements">
+      <a href="modules.html" class="element">Modules</a>
+      <a href="article.html" class="element">Indents</a>
+    </div>
+    <a href="skillbox.docx" download class="link-d">Скачать программу</a>
+  </div>
+</body>
+
+</html>
